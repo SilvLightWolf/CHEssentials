@@ -1,3 +1,5 @@
+
+
 proc(_execute, @command, @array, @messages, @config,
 	if(array_size(@array) == 0) {
 		if(pmode(player()) == 'SURVIVAL') {
